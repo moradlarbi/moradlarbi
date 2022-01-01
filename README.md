@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moradlarbi
 - 👀 I’m interested in Web developement
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning bot dev
 - 📫 How to reach me ...
 - Contact me on jm_larbimessaoudi@esi.dz
 
